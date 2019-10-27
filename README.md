@@ -17,3 +17,6 @@ In its final form the repository should contain the following:
  
 and some more...
 
+## current conditions at Langenferner
+Check out the [webcam of Casati Hut](https://tl.scenaridigitali.com/cevedale/images/cevedale.jpg) or the weather stations at [Sulden Madritsch](http://wetter.provinz.bz.it/hoehenwindstationen.asp?stat_stid=115) and [Sulden-Schöntauf](http://wetter.provinz.bz.it/hoehenwindstationen.asp?stat_stid=114) for the current conditions at the glacier.
+
