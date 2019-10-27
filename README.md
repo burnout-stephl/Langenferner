@@ -11,3 +11,7 @@ This repository was created to store mass balance data of Langenferner for the p
  - reports and papers documenting field work and analyses
  - selected set of pictures documenting condtitions and changes of the glacier
 and some more...
+
+## general information
+
+while this site is beeing created visit the [project at the ACINN website](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/mass-balance-vedretta-lunga.html.en) for some basic info.
